@@ -1,6 +1,10 @@
 {
   "primary": [
     {
+      "path": "/seridopotiguar",
+      "text": "Seridó Potiguar"
+    },
+    {
       "path": "/works",
       "text": "Objetos"
     },
